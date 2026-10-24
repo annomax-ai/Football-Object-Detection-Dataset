@@ -120,3 +120,7 @@ Annomax AI offers AI data annotation, data processing and quality assurance serv
 ## Disclaimer
 
 This is a portfolio demonstration project made to show image annotation workflows, labeling consistency and quality assurance practices. Real dataset performance and fit depend on the needs of each project.
+
+---
+
+*Note: This is a sample dataset for demonstration purposes. Please verify the image usage rights and licensing before redistributing the images or using them commercially.*
